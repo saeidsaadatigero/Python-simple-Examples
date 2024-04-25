@@ -3,14 +3,12 @@
 - def
 - class
 - avrege
-- if
-- elif
-- else
+- if- elif- else
 - for
-- range
+- in range
 - write
 - print
-- calculator
+- return
 - loop of numbers
 - max of numbers
-- return
+- calculator
