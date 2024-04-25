@@ -1,5 +1,5 @@
 # Python-simple-Examples
-- Python exam questions
+## Python exam questions
 - def
 - class
 - avrege
